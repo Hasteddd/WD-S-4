@@ -55,17 +55,15 @@ Welcome to the Valorant Hub! Immerse yourself in the world of Valorant as you ex
 
 ### Key Components
 
-- Color Scheme: Consistent colors reflecting the themes of "Regular Show" and "The Amazing World of Gumball".
-- Typography: Clear, readable fonts with styles for headers, body text, and navigation.
-- Images and Graphics: High-quality images for hero sections and themed galleries.
-- Layout: Responsive, grid-based design that's mobile-friendly.
-- Navigation: Intuitive navigation with hover or click effects.
-- Animations and Effects: CSS animations for transitions and hover effects on images/buttons.
-- Icons and Buttons: Consistent use of icons and styled buttons.
-- Backgrounds: Thematic background images or effects.
-- Accessibility: Design elements ensuring readability and accessible navigation.
-- Consistency: Unified design elements across pages for a cohesive user experienc
+- Header Section: This section includes a Valorant-themed logo and a navigation bar with links to the Home page, Maps page, and Gun Skins page. The Home button is prominently featured for easy navigation back to the main landing page.
 
+- Hero Section: This section features a Valorant-themed background image, a main title saying "Welcome to the Valorant Hub," a subtitle saying "Explore Maps, Gun Skins, and More," and call-to-action buttons linking to the Maps and Gun Skins featured pages. The buttons have a hover effect, enhancing the user experience by providing visual feedback when clicked.
+
+- Introduction Paragraph: A brief introduction to the website, highlighting the focus on Valorant maps and gun skins. This paragraph welcomes users and gives an overview of what they can explore on the site.
+
+- Featured Sections: Two sections on the landing page showcasing the Maps and Gun Skins. Each section includes a title, a brief description, and a button linking to the respective featured page. The buttons also have hover effects, providing a consistent user experience across the site.
+
+-Footer: This section includes social media links, contact information, and any additional relevant links or information. It helps users stay connected and provides a way for them to get in touch or explore more about Valorant.
 
 
 ### Technology
