@@ -91,20 +91,16 @@ WD-Seatwork-4
 |       └─ fileWith.jpeg/.jpg/.webp/.png
 |
 └─ pages
-|  └─ regular-show
+|  └─ featured-page-1
 |  |   └─ assets
 |  |   |  └─ css
-|  |   |  |  └─ style.css
-|  |   |  └─ img
-|  |   |     └─ fileWith.jpeg/.jpg/.webp/.png
+|  |   |    └─ style.css
 |  |   └─ index.html
 |  |
-|  └─ TAWOG
+|  └─ featured-page-2
 |     └─ assets
 |     |  └─ css
-|     |  |  └─ style.css
-|     |  └─ img
-|     |     └─ fileWith.jpeg/.jpg/.webp/.png
+|     |    └─ style.css
 |     └─ index.html
 |
 └─ index.html
@@ -113,17 +109,6 @@ WD-Seatwork-4
 
 ## Resources
 
-| Title | Purpose | Link |
-|-|-|-|
-| cn logo | cartoon network logo for landing page on header and footer | [brandslogos.com](https://images.app.goo.gl/JDynRfaaqkHiVsJc8) |
-| cn hero | cartoon network hero for landing page | [google.com](https://images.app.goo.gl/PHQViASZtsswnoW67) |
-| regular show title img | regular show title for landing page feature button and page | [google.com](https://images.app.goo.gl/X1AakZa4SBHfDGKT6) |
-| regular show hero img | regular show hero for hero section | [google.com](https://images.app.goo.gl/7Mp1hkzuqp9J1nea6) |
-| rs-bg | rs-bg for feature page 1 | [google.com](https://images.app.goo.gl/eLd4UsfCPDSbhzk76) |
-| rs cart | rs cart for feature page | [google.com](https://images.app.goo.gl/izrv1CNCNZesvZMu6) |
-| rs mower | rs mower for feature page | [google.com](https://images.app.goo.gl/YVJKbEGhhb9KFf3b6) |
-| tawog title |  tawog title for feature page 2 | [google.com](https://images.app.goo.gl/6ScaXUbvstocAZoq5) |
-| tawog hero1 | tawog hero1 for feature page 2 | [google.com](https://images.app.goo.gl/pi49Ab8oHB4SVwWc6) |
-| tawog kusina | tawog kusina for feature page 2 | [google.com](https://images.app.goo.gl/E6wZzXSDKYesakpUA) |
-| tawog sala | tawog sala for feature page 2 | [google.com](https://images.app.goo.gl/uCsep5yQbrsWqEsS6) |
-| tawog lawn | tawog lawn for feature page 2 | [pinterest.com](https://pin.it/4Pwhkf6za) |
+|Title	|Purpose	|Link|
+|Maps Image|	Images of Valorant maps for project use|	playvalorant.com|
+|Gun Skins Image|	Images of Valorant gun skins for project use|	dexerto.com|
