@@ -1,0 +1,102 @@
+/* styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #1a1a1a;
+    color: #ffffff;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.header {
+    background-color: #202020;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header h1 {
+    font-size: 24px;
+    margin: 0;
+    color: #fcba03;
+}
+
+.header a {
+    color: #fcba03;
+    text-decoration: none;
+    font-size: 16px;
+    margin-right: 20px;
+}
+
+.header a:hover {
+    color: #f0a500;
+}
+
+.hero {
+    background-image: url(../../assets/img/valorant-background.jpg);
+    background-size: cover; /* Ensures the image covers the entire hero section */
+    background-position: center center; /* Centers the image */
+    background-repeat: no-repeat; /* Prevents the image from repeating */
+    padding: 50px;
+    text-align: center;
+    color: #ffffff;
+    flex: 1; /* Allow the hero section to grow and fill available space */
+}
+
+.hero h2 {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+.button {
+    background-color: #fcba03;
+    color: #1a1a1a;
+    font-size: 18px;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    margin: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.button:hover {
+    background-color: #f0a500;
+}
+
+.hero-image {
+    width: 100%; /* Adjust width as needed */
+    max-width: 1000px; /* Example maximum width */
+    height: auto; /* Maintain aspect ratio */
+    margin-top: 20px; /* Adjust margin as needed */
+    display: block; /* Ensures image is centered */
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.footer {
+    background-color: #202020;
+    padding: 20px;
+    text-align: center;
+    width: 100%;
+    margin-top: 180px; /* Adjusts the footer down */
+}
+
+.footer a {
+    color: #fcba03;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+.footer a:hover {
+    color: #f0a500;
+}
+
+.footer-image {
+    width: 50px;
+    height: auto;
+    margin-top: 10px;
+}
