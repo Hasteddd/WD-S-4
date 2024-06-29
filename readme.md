@@ -109,6 +109,7 @@ WD-Seatwork-4
 
 ## Resources
 
-|Title	|Purpose	|Link|
-|Maps Image|	Images of Valorant maps for project use|	playvalorant.com|
-|Gun Skins Image|	Images of Valorant gun skins for project use|	dexerto.com|
+| Title | Purpose | Link |
+|-|-|-|
+| Maps Image | Images of Valorant maps for project use | (https://playvalorant.com/en-us/maps/) |
+| Gun Skins Image | Images of Valorant gun skins for project use | (https://www.dexerto.com/valorant/all-valorant-deluxe-edition-skin-bundles-tiers-weapons-prices-1456863/) |
