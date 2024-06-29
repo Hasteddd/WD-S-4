@@ -16,7 +16,7 @@
 
 <br />
 
-![](https://visit-counter.vercel.app/counter.png?page=armamentum.github.io/WD-Seatwork-4/)
+![](https://visit-counter.vercel.app/counter.png?page=Hasteddd.github.io/WD-Seatwork-4/)
 
 ---
 
@@ -50,7 +50,8 @@
 
 ## Overview
 
-Explore the vibrant worlds of "The Amazing World of Gumball" (TAWOG) and "Regular Show" through a curated collection of images showcasing iconic places and moments from these beloved animated series. Dive into whimsical landscapes, quirky settings, and memorable scenes that define the charm and creativity of these cartoons. Whether you're a fan reliving favorite episodes or discovering these worlds for the first time, immerse yourself in the colorful adventures that make these shows timeless.
+Welcome to the Valorant Hub! Immerse yourself in the world of Valorant as you explore detailed maps and discover the extensive collection of gun skins and maps. Our site is dedicated to providing you with the latest updates, strategies, and insights into Valorant's dynamic gameplay. Whether you're a seasoned player or new to the game, you'll find valuable information and resources to enhance your gaming experience. Dive in and uncover the secrets of Valorant's maps and the unique aesthetics of its gun skins and maps.
+
 
 ### Key Components
 
